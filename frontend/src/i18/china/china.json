@@ -1,0 +1,121 @@
+{
+  "lang": {
+    "taiwanise": "繁体中文",
+    "china": "简体中文"
+  },
+  "title":"智能分析平台",
+  "submit": "提交",
+  "leftNav": {
+    "spc": "即时监控",
+    "rca": "根因分析",
+    "event": "事件纪录",
+    "setting": "设定",
+    "image": "影像分类",
+    "user": "用户管理"
+  },
+  "contentTitle": {
+    "spc": "即时监控",
+    "rca": "根因分析模型建立",
+    "event": "事件纪录",
+    "setting": "设定",
+    "image": "狗猫影像分类"
+  },
+  "SPC": {
+    "parameter": "当前测项",
+    "parameterSelect": "选择测项",
+    "depoRate": "沉积率",
+    "max": "最大值",
+    "statistic": "统计值",
+    "item": "项目",
+    "value": "数值",
+    "avg": "平均值",
+    "range": "全距",
+    "data": "数据",
+    "date": "日期",
+    "OOC": "超规数"
+  },
+  "RCAStep": {
+    "upload": "资料上传",
+    "objective": "目标设定",
+    "model": "建模结果",
+    "dashboard": "显示报表"
+  },
+  "RCAUpload": {
+    "upload": "点选上传",
+    "dataUpload": "资料上传",
+    "describe": "备注资讯",
+    "describePlaceholder": "详细资讯"
+  },
+  "RCASetting": {
+    "dataTime": "资料时间区间",
+    "product": "产品编号",
+    "productSelect": "选择产品编号",
+    "time": "时间区间",
+    "timeSelect": "选择开始日期",
+    "timeDateEnd": "选择结束日期",
+    "startHour": "开始小时",
+    "endHour": "结束小时",
+    "OC": "腔体",
+    "source":"分析目标",
+    "sourceSelect": "选择分析目标"
+  },
+  "RCAModel": {
+    "product": "产品种类",
+    "timeAnalysis":"分析时间区间",
+    "dataLen": "区间内资料笔数",
+    "objectiveOC": "目标腔体",
+    "objectiveSource": "目标參數",
+    "describe": "说明",
+    "confidence": "信心度",
+    "confidenceStandard": "信心度标准",
+    "enough": "信心度足够",
+    "lack": "信心度不足",
+    "predictPlot": "预测趋势图",
+    "value": "数值",
+    "dataNumber": "资料笔数",
+    "featureImportance": "因子重要性",
+    "visualization": "产生视觉化报表",
+    "parameter": "参数名称",
+    "importance": "因子重要性",
+    "max": "最大值",
+    "min": "最小值",
+    "avg": "平均值",
+    "std": "标准差"
+  },
+  "RCAVisualization": {
+    "product": "产品种类",
+    "timeAnalysis":"分析时间区间",
+    "dataLen": "区间内资料笔数",
+    "plot": "图表",
+    "corrMatrix": "系数矩阵",
+    "DT": "决策树",
+    "show": "显示",
+    "occurNumber": "出现次数",
+    "dataNumber": "资料笔数"
+  },
+  "ImageClassification": {
+    "imageUpload": "图片上传",
+    "imageUploadClick": "点选上传",
+    "imageTrueClass": "实际类别",
+    "imageTrueClassSelect": "选择类别",
+    "dog": "狗狗",
+    "cat": "猫猫",
+    "neither": "都不是",
+    "result": "预测结果表格",
+    "modelPredict": "照片实际类别",
+    "correct": "预测是否正确",
+    "resultTitle": "预测结果"
+  },
+    "UserManagement": {
+      "title": "用户管理",
+      "manager": "(管理者)",
+      "userList": "用户列表",
+      "username" : "用户名称",
+      "email": "信箱",
+      "confirm" : "用户认证",
+      "manager_table": "管理者",
+      "updateAdmin" : "升级管理者",
+      "deleteUser" : "删除使用者"
+  }
+}
+

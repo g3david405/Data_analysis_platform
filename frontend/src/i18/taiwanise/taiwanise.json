@@ -1,0 +1,120 @@
+{
+  "lang": {
+    "taiwanise": "繁體中文",
+    "china": "簡體中文"
+  },
+  "title":"智能分析平台",
+  "submit": "提交",
+  "leftNav": {
+    "spc": "即時監控",
+    "rca": "根因分析",
+    "event": "事件紀錄",
+    "setting": "設定",
+    "image": "影像分類",
+    "user": "用戶管理"
+  },
+  "contentTitle": {
+    "spc": "即時監控",
+    "rca": "根因分析模型建立",
+    "event": "事件紀錄",
+    "setting": "設定",
+    "image": "狗貓影像分類"
+  },
+  "SPC": {
+    "parameter": "當前測項",
+    "parameterSelect": "選擇測項",
+    "statistic": "統計值",
+    "depoRate": "沉積率",
+    "max": "最大值",
+    "item": "項目",
+    "value": "數值",
+    "avg": "平均值",
+    "range": "全距",
+    "data": "數據",
+    "date": "日期",
+    "OOC": "超規數"
+  },
+  "RCAStep": {
+    "upload": "資料上傳",
+    "objective": "目標設定",
+    "model": "建模結果",
+    "dashboard": "顯示報表"
+  },
+  "RCAUpload": {
+    "upload": "點選上傳",
+    "dataUpload": "資料上傳",
+    "describe": "備註資訊",
+    "describePlaceholder": "詳細資訊"
+  },
+  "RCASetting": {
+    "dataTime": "資料時間區間",
+    "product": "產品編號",
+    "productSelect": "選擇產品編號",
+    "time": "時間區間",
+    "timeSelect": "選擇開始日期",
+    "timeDateEnd": "選擇結束日期",
+    "startHour": "開始小時",
+    "endHour": "結束小時",
+    "OC": "腔體",
+    "source":"分析目標",
+    "sourceSelect": "選擇分析目標"
+  },
+  "RCAModel": {
+    "product": "產品種類",
+    "timeAnalysis":"分析時間區間",
+    "dataLen": "區間內資料筆數",
+    "objectiveOC": "目標腔體",
+    "objectiveSource": "目標參數",
+    "describe": "說明",
+    "confidence": "信心度",
+    "confidenceStandard": "信心度標準",
+    "enough": "信心度足夠",
+    "lack": "信心度不足",
+    "predictPlot": "預測趨勢圖",
+    "value": "數值",
+    "dataNumber": "資料筆數",
+    "featureImportance": "因子重要性",
+    "visualization": "產生視覺化報表",
+    "parameter": "參數名稱",
+    "importance": "因子重要性",
+    "max": "最大值",
+    "min": "最小值",
+    "avg": "平均值",
+    "std": "標準差"
+  },
+  "RCAVisualization": {
+    "product": "產品種類",
+    "timeAnalysis":"分析時間區間",
+    "dataLen": "區間內資料筆數",
+    "plot": "圖表",
+    "corrMatrix": "係數矩陣",
+    "DT": "決策樹",
+    "show": "顯示",
+    "occurNumber": "出現次數",
+    "dataNumber": "資料筆數"
+  },
+  "ImageClassification": {
+    "imageUpload": "圖片上傳",
+    "imageUploadClick": "點選上傳",
+    "imageTrueClass": "實際類別",
+    "imageTrueClassSelect": "選擇類別",
+    "dog": "狗狗",
+    "cat": "貓貓",
+    "neither": "都不是",
+    "result": "預測結果表格",
+    "modelPredict": "照片實際類別",
+    "correct": "預測是否正確",
+    "resultTitle": "預測結果"
+  },
+  "UserManagement": {
+    "title": "用戶管理",
+    "manager": "(管理者)",
+    "userList": "用戶列表",
+    "username" : "用戶名稱",
+    "email": "信箱",
+    "confirm" : "用戶認證",
+    "manager_table": "管理者",
+    "updateAdmin" : "升級管理者",
+    "deleteUser" : "刪除使用者"
+  }
+}
