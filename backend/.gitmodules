@@ -1,4 +1,0 @@
-[submodule "devops"]
-	path = devops
-	url = http://twtpebuildsv.deltaww.com/rca/rca-setup.git
-	branch = master
